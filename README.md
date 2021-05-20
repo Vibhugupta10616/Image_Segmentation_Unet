@@ -10,7 +10,7 @@ The word “semantic” here refers to what's being shown, so for example the �
 
 U-Net, named for its U-shape, was originally created in 2015 for tumor detection, but in the years since has become a very popular choice for other semantic segmentation tasks. 
 
-<center><img src="images/unet.png" style="width:500px;height:300;"></center>
+<center><img src="images/unet.png" style="width:400px;height:200;"></center>
 <caption><center> U-Net Architecture </center></caption> 
 <br>
 
