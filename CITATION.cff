@@ -1,0 +1,18 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: 
+    given-names: "Vibhu Gupta"
+cff-version: "1.1.0"
+date-released: 2021-5-20
+keywords: 
+  - "semantic-segmentation"
+  - "deep-learning"
+  - "convolutional-neural-network"
+  - "image-processing"
+  - "computer vision"
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/Vibhugupta10616/Semantic-Image-Segmentation-Unet"
+title: "CityScape Image Segmentation with U-Net"
+...
