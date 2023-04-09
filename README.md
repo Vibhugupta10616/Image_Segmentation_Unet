@@ -1,6 +1,6 @@
 # CityScape Image Segmentation with U-Net
 
-As a part of my Coursera CNN Course, I have built a U-Net, a type of CNN used for semantic segmentation, i.e to predict a label for every single pixel in an image - in this case, an image from a self-driving car dataset.
+As a part of my CNN Course, I have built a U-Net, a type of CNN used for semantic segmentation, i.e to predict a label for every single pixel in an image - in this case, an image from a self-driving car dataset.
 
 The word “semantic” here refers to what's being shown, so for example the “Tree” class is indicated below by the dark pink mask, and "Sky" is indicated with a orange mask:
 
